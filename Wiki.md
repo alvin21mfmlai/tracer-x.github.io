@@ -54,3 +54,35 @@ ________________________________________________________________________________
 #### 2.6.2 Klee Namespace (Please click on Figure and zoom in for better view)
 ![Core (klee)](https://github.com/alvin21mfmlai/tracer-x.github.io/assets/70025024/dccdad59-9628-4435-bb69-1581e015cc00)
 _____________________________________________________________________________________________________________________________________________________________________________
+
+## 3. Classes for TracerX
+In current design for TracerX, the following classes are built-in:
+
+- TxPCConstraint
+- TxAllocationContext
+- TxVariable
+- TxInterpolantValue
+- TxStateAddress
+- TxStateValue
+- TxPrettyExpressionBuilder
+- TxPartitionHelper
+- TxTreeNode
+- TxStore
+- TxPathCondition
+- TxSubsumptionTable
+- TxSubsumptionTableEntry
+- TxExprHelper
+- TxDependency
+- TxStoreEntry
+- TxAllocationInfo
+- TxShadowArray
+- TxSpeculationHelper
+- TxWPHelper
+- TxWeakestPreCondition
+- TxTree
+
+### 3.1. Class Diagram for TracerX (Please click on Figure and zoom in for better view)
+The above classes can be represented in a single class diagram with the respective connections (association, containment, aggregation, etc.) as follows:
+
+![Core-TX](https://github.com/tracer-x/tracer-x.github.io/assets/70025024/df876510-2b2f-4afb-82f5-caf6091ae7d8)
+_____________________________________________________________________________________________________________________________________________________________________________
