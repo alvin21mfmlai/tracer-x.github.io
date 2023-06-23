@@ -31,8 +31,11 @@ For more information on what TracerX is and what it can do, see the following pu
 - Installation details can be seen [here](https://tracer-x.github.io/gettingstarted). 
 - Install TracerX on Ubuntu-18.04 using Windows Subsytem for Linux (WSL) [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/installation-windows-subsystem.md)
 
+### Wiki
+
+- Class Diagrams for Klee (Version 1.0) and TracerX [here](https://github.com/tracer-x/tracer-x.github.io/blob/gh-pages/Wiki.md). 
 
 ### Team Members
 
-The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](https://nitw.irins.org/profile/154056) and Xuan-Linh Ha.
+The project is led by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan/). Other team members are: [Rasool Maghareh](https://www.comp.nus.edu.sg/~rasool/), [Sangharatna Godboley](https://nitw.irins.org/profile/154056), Xuan-Linh Ha, Chew Wei Ze Alvin.
 
